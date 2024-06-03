@@ -63956,7 +63956,7 @@ if(r)q.b.pop()
 return!0},
 $S:39}
 A.C4.prototype={
-O(a){return new A.rZ(B.HN,"Flutter Demo",A.acl(null,A.aie(B.Y,B.Ev),!0),!1,null)}}
+O(a){return new A.rZ(B.HN,"Flutter NFT Market",A.acl(null,A.aie(B.Y,B.Ev),!0),!1,null)}}
 A.fN.prototype={
 AW(){return A.a([new A.kw("Abstract","assets/images/nft/nfts/abstract.png"),new A.kw("3D Render ","assets/images/nft/nfts/3d.jpeg"),new A.kw("Space ","assets/images/nft/nfts/astronaut.jpeg"),new A.kw("Nature","assets/images/nft/nfts//nature.jpeg")],t.H2)},
 Bf(){var s=null
